@@ -1,0 +1,23 @@
+
+< 15-07-11 09:06:30 >==============================================
+Device is Inserted On Driver : [Hub9 Port4] [VER:0, SN:9&2a8e7614&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: E:\prj_33\3312\program\JH3312_v001_writer\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/07/11 AM 09:06:32:421
+   Step 2 - End Time : 2015/07/11 AM 09:06:32:436
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/07/11 AM 09:06:32:436
+   Step 3 - End Time : 2015/07/11 AM 09:06:32:436
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/07/11 AM 09:06:32:436
+   Step 4 - End Time : 2015/07/11 AM 09:06:36:773
+   Step 4 ok! Spent Time: 4.337s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: E:\prj_33\3312\program\JH3312_v001_writer\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/07/11 AM 09:06:36:773
+   Step 5 - End Time : 2015/07/11 AM 09:06:52:14
+   Step 5 ok! Spent Time: 15.241s
+   USB Task Finished! Spent Time: 19.594s
+   Device is Pullouted.
